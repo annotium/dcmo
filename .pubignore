@@ -7,3 +7,5 @@
 /website/*
 /codecov.yaml
 /dart_dependency_validator.yaml
+/.vscode/
+/.github/
