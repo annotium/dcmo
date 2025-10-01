@@ -1,4 +1,4 @@
-name: dcmo
+name: dart_code_metrics
 version: 5.8.0
 description: Software analytics tool that helps developers analyse and improve software quality.
 homepage: https://github.com/annotium/dcmo
